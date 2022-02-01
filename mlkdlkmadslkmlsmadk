@@ -1,0 +1,42 @@
+[33mcommit 21d5c84cb1fb6bcd1c15e7c76f882aa314d544ef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: HitCheap <98739400+HitCheap@users.noreply.github.com>
+Date:   Mon Jan 31 12:19:11 2022 +0200
+
+    Create README.md
+
+[33mcommit f5e94570879f9fb2f60027b41d81ceebfe5c5801[m
+Merge: 483b2b4 6d71549
+Author: Bugsters104 <r.kristaps@inbox.lv>
+Date:   Sun Jan 16 21:58:06 2022 +0200
+
+    Veikta zaros esošā konflikta novēršana
+
+[33mcommit 483b2b45c39a49cb5f13cc60c20d2982f8edafab[m
+Author: Bugsters104 <r.kristaps@inbox.lv>
+Date:   Sun Jan 16 21:46:11 2022 +0200
+
+    Iespējams ievadīt metienu skaitu no konsoles
+
+[33mcommit 6d71549fbf006b2033d9df107568fe7ec044fdfa[m[33m ([m[1;32mKristapaZars[m[33m)[m
+Author: Bugsters104 <r.kristaps@inbox.lv>
+Date:   Sun Jan 16 21:38:43 2022 +0200
+
+    Papildināts ar funkcionalitāti, ka metamo kauliņu var mest vairākas reizes
+
+[33mcommit 98279ffdb04f5ac413f1fe4b49538b414fe9c8a8[m
+Author: Bugsters104 <r.kristaps@inbox.lv>
+Date:   Sun Jan 16 21:35:31 2022 +0200
+
+    Refaktorēts kods un ieviesta metode
+
+[33mcommit 422296725e4893a452121eab5275ed67b90307c3[m
+Author: Bugsters104 <r.kristaps@inbox.lv>
+Date:   Sun Jan 16 21:13:00 2022 +0200
+
+    Izstrādāta metamā kauliņa programmas sākotnējā versija
+
+[33mcommit 0fafd92f9ca1d1fdbd2ce73f9ac9cd1845eba124[m
+Author: Bugsters104 <r.kristaps@inbox.lv>
+Date:   Sun Jan 16 21:01:15 2022 +0200
+
+    Uzsākta projekta versionēšana
